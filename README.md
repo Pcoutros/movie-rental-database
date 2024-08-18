@@ -10,4 +10,4 @@ This is the DDL, DML, and DQL for a movie rental relational database project. Th
 
 ## How to Use
 
-You will need access to Oracle SQL Developer
+You will need access to Oracle SQL Developer and an Oracle Database
